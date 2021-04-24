@@ -1,8 +1,8 @@
-##AminoBugs
+### AminoBugs
 
 Long ago B.C. (before Corona), our team met whilst doing our Masters at Newcastle University. Since that faithful year, we have forged an inter-continental peptide bond that is able to withstand time zone differences and adverse pressure from the upcoming hackaton. Stay tuned 🧬
 
-###Undergraduate background:
+### Undergraduate background:
 *Aida Pendás Fernández - BSc Computer Science Engineering
 
 *Arisara Amrapala (Lily) - BSc Neuroscience
@@ -15,7 +15,7 @@ Emma Foster - BSc Life Sciences
 
 *Loh Chen Lam (Eric) - BSc Biomedical Sciences
 
-###Postgraduate background:
+### Postgraduate background:
 *MSc in Computational Neuroscience & Neuroinformatics
 
 Ben Tong - MSc in Bioinformatics
@@ -23,7 +23,7 @@ Ben Tong - MSc in Bioinformatics
 Emma Foster - MSc in Synthetic Biology
 
 
-###Team Members
+### Team Members
 Joao Nunes
 Arisara Amrapala (Lily)
 Aida Pendás Fernández
