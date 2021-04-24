@@ -1,4 +1,4 @@
-### AminoBugs
+# AminoBugs
 
 Long ago B.C. (before Corona), our team met whilst doing our Masters at Newcastle University. Since that faithful year, we have forged an inter-continental peptide bond that is able to withstand time zone differences and adverse pressure from the upcoming hackaton. Stay tuned 🧬
 
